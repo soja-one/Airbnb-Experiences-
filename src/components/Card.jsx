@@ -12,7 +12,6 @@ export default function Card() {
                 <span className="grey">USA</span>
 
             </div>
-
             <p>Life lessons with Katie Zaferes</p>
             <p><span className="card--price"> From $136 </span>/ person</p>
 
